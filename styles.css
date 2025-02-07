@@ -1,1 +1,13 @@
-/*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
